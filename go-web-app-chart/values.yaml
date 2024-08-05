@@ -8,7 +8,7 @@ image:
   repository: arjunpt/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10254937604"
+  tag: "10254964729"
 
 
 ingress:
